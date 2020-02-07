@@ -1,0 +1,149 @@
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\MVCEvrakTakipSistemi.dll.config
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\MVCEvrakTakipSistemi.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\MVCEvrakTakipSistemi.pdb
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\csc.exe
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\csc.exe.config
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\csc.rsp
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\csi.exe
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\csi.exe.config
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\csi.rsp
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.AppContext.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Console.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\vbc.exe
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\vbc.exe.config
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\vbc.rsp
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\EntityFramework.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\EntityFramework.SqlServer.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\System.Web.Helpers.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\System.Web.Mvc.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\System.Web.Razor.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\System.Web.Webpages.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\EntityFramework.xml
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\EntityFramework.SqlServer.xml
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\System.Web.Razor.xml
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\System.Web.Webpages.xml
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\System.Web.Helpers.xml
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\System.Web.Mvc.xml
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\obj\Debug\MVCEvrakTakipSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\obj\Debug\MVCEvrakTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\obj\Debug\MVCEvrakTakipSistemi.csproj.CopyComplete
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\obj\Debug\MVCEvrakTakipSistemi.dll
+C:\Users\Ali Osman Hazır\Documents\Visual Studio 2017\Projects\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\obj\Debug\MVCEvrakTakipSistemi.pdb
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\MVCEvrakTakipSistemi.dll.config
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\MVCEvrakTakipSistemi.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\MVCEvrakTakipSistemi.pdb
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\csc.exe
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\csc.exe.config
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\csc.rsp
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\csi.exe
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\csi.exe.config
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\csi.rsp
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.AppContext.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Console.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.IO.Compression.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Security.Claims.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.ValueTuple.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\vbc.exe
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\vbc.exe.config
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\vbc.rsp
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\VBCSCompiler.exe
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\EntityFramework.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\EntityFramework.SqlServer.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\System.Web.Helpers.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\System.Web.Mvc.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\System.Web.Razor.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\System.Web.Webpages.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\System.Web.Webpages.Razor.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\EntityFramework.xml
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\EntityFramework.SqlServer.xml
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\System.Web.Razor.xml
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\System.Web.Webpages.xml
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\System.Web.Webpages.Razor.xml
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\System.Web.Helpers.xml
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\bin\System.Web.Mvc.xml
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\obj\Debug\MVCEvrakTakipSistemi.csprojAssemblyReference.cache
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\obj\Debug\MVCEvrakTakipSistemi.csproj.CopyComplete
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\obj\Debug\MVCEvrakTakipSistemi.dll
+C:\Users\ALTAN EMRE\Desktop\MVCEvrakTakipSistemi\MVCEvrakTakipSistemi\obj\Debug\MVCEvrakTakipSistemi.pdb

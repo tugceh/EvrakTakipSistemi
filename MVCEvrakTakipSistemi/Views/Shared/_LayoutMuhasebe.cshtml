@@ -1,0 +1,29 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>_LayoutMuhasebe</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="jumbotron">
+            @Html.ActionLink("Index", "Index", "Muhasebe", new { @class = "col-2 btn btn-primary" })
+            @Html.ActionLink("İncelenen Evraklar", "Incelenen", "Muhasebe", new { @class = "col-2 btn btn-primary" })
+            @Html.ActionLink("Hatalı Evraklar", "Hata", "Muhasebe", new { @class = "col-2 btn btn-primary" })
+            @Html.ActionLink("Başarılı Evraklar", "Basarili", "Muhasebe", new { @class = "col-2 btn btn-primary" })
+        </div>
+    </div>
+
+    <main role="main" class="container">
+        @RenderBody()
+    </main>
+</body>
+</html>

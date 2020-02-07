@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "Incelenen";
+    Layout = "~/Views/Shared/_LayoutOnMali.cshtml";
+}
+
+<h2>Incelenen</h2>
+<div>
+    @foreach (var evrak in ViewBag.evraklar)
+    {
+        using (Html.BeginForm("Incelenen", "OnMali", FormMethod.Post))
+        {
+            <div class="card">
+                <div class="card-header">
+                    <input type="hidden" id="evrakId" name="evrakId" value="@evrak.evrakId" />
+                    @evrak.evrakAd
+                </div>
+                <div class="card-body">
+                    <a href="@evrak.evrakYol">Belgeyi İncele</a>
+                </div>
+                <div class="card-footer">
+                    <button type="submit" class="btn btn-outline-danger" name="btnHatali">Hatalı</button>
+                    <button type="submit" class="btn btn-outline-success" name="btnBasarili">Başarılı</button>
+                </div>
+            </div>
+
+        }
+    }
+</div>
+
